@@ -1,0 +1,27 @@
+
+
+@media screen and (max-width:800px) {
+    .button {
+        font-size: 14px;
+    }
+
+}
+
+.button-orange {
+    background-color: rgb(197, 15, 15);
+}
+.button-orange:hover {
+    background-color: rgb(73, 231, 168);
+}
+
+.button-rounded {
+    border-radius: 2em;
+}
+
+.button-small {
+    font-size: 12px;
+}
+
+.button-big {
+    font-size: 36px;
+}
